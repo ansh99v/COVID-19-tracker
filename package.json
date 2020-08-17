@@ -1,0 +1,8 @@
+{
+  "name": "college-covid-project",
+  "version": "1.0.0",
+  "description": "A COVID'19 related project to show real time updates.",
+  "main": "index.js",
+  "author": "MSITians",
+  "license": "MIT"
+}
