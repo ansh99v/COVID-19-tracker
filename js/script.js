@@ -1,4 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // Add javaScript here.....
-    console.log("Contents Loaded");
-})
+
+  AOS.init({
+    repeat : false,
+    duration : 2000
+  })
+
+});
